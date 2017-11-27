@@ -1,1 +1,1 @@
-demo super 1
+demo SUPER 1
