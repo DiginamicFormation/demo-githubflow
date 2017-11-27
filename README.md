@@ -1,1 +1,1 @@
-demo SUPER 1
+demo SUPER PIRATE
